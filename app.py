@@ -66,7 +66,7 @@ model = load_model()
 metrics = load_json("metricas_modelo.json")
 
 st.title("🩺 Clasificación de diabetes")
-st.caption("Minería de Datos · Tercer corte · José Rivas, Sebastián Muñoz y Camilo Camargo")
+st.caption("Minería de Datos · Tercer corte · José Rivas, Sebastián Muñoz, Camilo Camargo Y Sebastian Cervantes")
 st.warning("Ejercicio académico: esta herramienta **no diagnostica** ni reemplaza "
            "la valoración de un profesional de la salud.")
 
