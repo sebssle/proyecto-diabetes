@@ -21,7 +21,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Aplicación publicada
-(pegar aquí la URL de Streamlit)
+(https://proyecto-diabetes-mineria.streamlit.app/)
 
 ## Aviso
 Ejercicio académico. No sirve para diagnóstico ni decisiones clínicas.
