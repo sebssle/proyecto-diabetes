@@ -1,0 +1,15 @@
+{
+  "source": "Primer registro de X_test de esta ejecución",
+  "features": {
+    "Pregnancies": 7.0,
+    "Glucose": 159.0,
+    "BloodPressure": 64.0,
+    "SkinThickness": null,
+    "Insulin": null,
+    "BMI": 27.4,
+    "DiabetesPedigreeFunction": 0.294,
+    "Age": 40.0
+  },
+  "expected_prediction": 1,
+  "selected_model": "Árbol de decisión"
+}
